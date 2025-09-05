@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZ6ZXV1bm9uNnE3OHV1dmFsNjNqNjhrN211b2dqOWxtNjI4aTM4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)" width="230">
 </p>
 
 ### Hello, I'm Bolaji 👋🏾
