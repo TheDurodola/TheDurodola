@@ -15,7 +15,8 @@
 ## :link: Links
 
 <p align="center">
-  <a href="mailto:bolajidurodola@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="mailto:bolajidurodola@gmail.com"><img width="96" height="96" src="https://img.icons8.com/color/96/gmail-new.png" alt="gmail-new"/></a>
   <a href="https://x.com/lookingfor_boj"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="x"/></a>
-  <a href="https://www.instagram.com/lord_boj"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="https://www.instagram.com/lord_boj"><img width="96" height="96" src="https://img.icons8.com/fluency/96/instagram-new.png" alt="instagram-new"/></a>
+  <a href="https://www.linkedin.com/in/toliat-durodola/"><img width="96" height="96" src="https://img.icons8.com/color/96/linkedin.png" alt="linkedin"/></a>
 </p>
