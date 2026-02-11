@@ -7,7 +7,7 @@
 **Here's a quick summary about me**:
 
 - 🏫 I currently studying at [Semicolon Africa](https://semicolon.africa/).
-- 💻 I’m currently working with Java, Python, and JavaScript
+- 💻 I’m currently working with Java,Go, Flutter, Python, and JavaScript
 - 😊 I’m excited about Open Source Projects, System Design & Architecture, Web3 and Mobile Development.
 - 🔭 I’m currently solving problems.
 - 👯 I’m looking to collaborate on new products and research.
