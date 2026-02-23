@@ -12,7 +12,7 @@
 - I’m currently solving problems.
 - I’m looking to collaborate on new products and research.
 
-## :link: Links
+##  Links
 
 <p align="center">
   <a href="mailto:bolajidurodola@gmail.com"><img width="96" height="96" src="https://img.icons8.com/color/96/gmail-new.png" alt="gmail-new"/></a>
