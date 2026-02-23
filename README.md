@@ -7,7 +7,7 @@
 **Here's a quick summary about me**:
 
 
-- I’m currently working with Java,Go, Flutter, Python, and JavaScript
+- I’m currently working with Java, Golang, Flutter, Python, and JavaScript
 - I’m excited about Open Source Projects, System Design & Architecture, Web3 and Mobile Development.
 - I’m currently solving problems.
 - I’m looking to collaborate on new products and research.
