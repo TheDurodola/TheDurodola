@@ -2,12 +2,12 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFsbzloNjBrdHozZ2Vlam80N3g3M2poeGFqNDZncGIwNHp2djF1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="530">
 </p>
 
-### Hello, I'm Bolaji
+# Durodola Abolaji Toliat
 
 **Here's a quick summary about me**:
 
 
-- I’m currently working with Java, Golang, Flutter, Python, and JavaScript
+- I’m currently working with Java, Go, and Python.
 - I’m excited about Open Source Projects, System Design & Architecture, Web3 and Mobile Development.
 - I’m currently solving problems.
 - I’m looking to collaborate on new products and research.
