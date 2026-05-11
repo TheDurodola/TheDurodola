@@ -15,6 +15,7 @@ I am a Software Engineer specializing in backend developement and distributed sy
 - I love Amala and Efo Riro.
 - Push me into a Colosseum and watch me come out victorious.
 - I love drawing my architectural plans before going ahead with coding.
+- I have an interest in Cloud Engineering which I am currently exploring.
 
 
 
@@ -23,9 +24,9 @@ I am a Software Engineer specializing in backend developement and distributed sy
 - **Backend Frameworks**: Springboot, Gin, Flask.
 - **Database**: PostgreSQL, MongoDB, MySQL.
 - **Cache**: Redis.
-- **Tool**: Git, Docker, Linux, Cloudinary, Nginx, Brevo, AWS.
 - **Test**: JUnit, AssertJ, WebMVC, PyTest, Postman,
 - **Message Queue**: RabbitMQ
+- **Tools**: Git, Docker, Linux, Cloudinary, Nginx, Brevo, AWS, Railway, Render, Vercel.
 
 ## On the Side
 - Watching anime
