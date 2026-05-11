@@ -4,15 +4,37 @@
 
 # Durodola Abolaji Toliat
 
-**Here's a quick summary about me**:
+I am a Software Engineer specializing in backend developement and distributed systems. I have a strong foundation in building high integrity application using Java and Springboot, with a deep focus on system architecture and microservices. I enjoy complex scalability problems and creating robust, observable systems that solve real-world challenges.
 
 
-- I’m currently working with Java, Go, and Python.
-- I’m excited about Open Source Projects, System Design & Architecture, Web3 and Mobile Development.
-- I’m currently solving problems.
-- I’m looking to collaborate on new products and research.
+**Here's a quick information about me**:
+- Everyone calls me **BOJ**.
+- I love solving puzzles which is one of the reasons I decided to follow this career path. Every task feels like a piece of a puzzle that needs to be solved.
+- Open to collaboration, open-source.
+- I am a holder of a Bachelors of Science, Computer Science, Bowen Univeristy, Iwo.
+- I love Amala and Efo Riro.
+- Push me into a Colosseum and watch me come out victorious.
+- I love drawing my architectural plans before going ahead with coding.
 
-##  Links
+
+
+## Stack
+- **Programming Langueges**: Java, Golang, Python.
+- **Backend Frameworks**: Springboot, Gin, Flask.
+- **Database**: PostgreSQL, MongoDB, MySQL.
+- **Cache**: Redis.
+- **Tool**: Git, Docker, Linux, Cloudinary, Nginx, Brevo, AWS.
+- **Test**: JUnit, AssertJ, WebMVC, PyTest, Postman,
+- **Message Queue**: RabbitMQ
+
+## On the Side
+- Watching anime
+- Lifting weights ( By God's grace, I will return to the gym this year)
+- Jogging
+
+
+
+##  Connect with Me
 
 <p align="center">
   <a href="mailto:bolajidurodola@gmail.com"><img width="96" height="96" src="https://img.icons8.com/color/96/gmail-new.png" alt="gmail-new"/></a>
