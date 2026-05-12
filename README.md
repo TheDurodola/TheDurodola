@@ -2,7 +2,8 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFsbzloNjBrdHozZ2Vlam80N3g3M2poeGFqNDZncGIwNHp2djF1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="530">
 </p>
 
-# What's good ? I am Bolaji.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F70000&center=true&width=435&lines=Wagwan%3F+;I+am+Bolaji.;But+please+call+me+BOJ)](https://git.io/typing-svg)
+
 
 I am a Software Engineer specializing in backend developement and distributed systems. I have a strong foundation in building high integrity application using Java and Springboot, with a deep focus on system architecture and microservices. I enjoy complex scalability problems and creating robust, observable systems that solve real-world challenges.
 
@@ -32,8 +33,6 @@ I am a Software Engineer specializing in backend developement and distributed sy
 - Watching anime
 - Lifting weights ( By God's grace, I will return to the gym this year)
 - Jogging
-
-[![TheDurodola's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDurodola)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ##  Connect with Me
