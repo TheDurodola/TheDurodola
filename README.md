@@ -6,7 +6,7 @@
 
 # Durodola Abolaji Toliat
 
-I am a Software Engineer specializing in backend developement and distributed systems. I have a strong foundation in building high integrity application using Java and Springboot, with a deep focus on system architecture and microservices. I enjoy complex scalability problems and creating robust, observable systems that solve real-world challenges.
+Software Engineer specializing in backend developement and distributed systems. I have a strong foundation in building high integrity application using Java and Springboot, with a deep focus on system architecture and microservices. I enjoy complex scalability problems and creating robust, observable systems that solve real-world challenges.
 
 ### "Every Task is a puzzle that can be solved in an infinite amount of ways" - BOJ
 
