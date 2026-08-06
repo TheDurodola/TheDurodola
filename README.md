@@ -12,14 +12,11 @@ Software Engineer specializing in backend developement and distributed systems. 
 
 **Here's a quick information about me**:
 - Everyone calls me **BOJ**.
-- I love solving puzzles which is one of the reasons I decided to follow this career path. Every task feels like a piece of a puzzle that needs to be solved.
-- Open to collaboration, open-source.
-- I am a holder of a Bachelors of Science, Computer Science, Bowen Univeristy, Iwo.
+- Holder of a Bachelors of Science, Computer Science, Bowen Univeristy, Iwo.
 - I love Amala and Efo Riro.
-- Push me into a Colosseum and watch me come out victorious.
 - I love drawing my architectural plans before going ahead with coding.
 - I have an interest in Cloud Engineering which I am currently exploring.
-
+- Push me into a Colosseum and watch me come out victorious.
 
 
 ## Stack
