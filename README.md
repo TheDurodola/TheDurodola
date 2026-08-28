@@ -12,9 +12,9 @@ Specializing in backend developement and distributed systems. I have a strong fo
 
 **Here's a quick information about me**:
 - Everyone calls me **BOJ**.
-- Holder of a Bachelors of Science, Computer Science, Bowen Univeristy, Iwo.
+- Bachelors of Science, Computer Science, Bowen Univeristy, Iwo.
 - I love Amala and Efo Riro.
-- I love drawing my architectural plans before going ahead with coding.
+- Architectural plans before any else.
 - I have an interest in Cloud Engineering which I am currently exploring.
 - Push me into a Colosseum and watch me come out victorious.
 
